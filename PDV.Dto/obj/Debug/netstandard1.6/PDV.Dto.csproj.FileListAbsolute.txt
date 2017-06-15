@@ -1,0 +1,4 @@
+c:\Users\primecontrol.otavio\documents\visual studio 2017\Projects\PDV\PDV.Dto\bin\Debug\netstandard1.6\PDV.Dto.deps.json
+c:\Users\primecontrol.otavio\documents\visual studio 2017\Projects\PDV\PDV.Dto\bin\Debug\netstandard1.6\PDV.Domain.dll
+c:\Users\primecontrol.otavio\documents\visual studio 2017\Projects\PDV\PDV.Dto\obj\Debug\netstandard1.6\PDV.Dto.csprojResolveAssemblyReference.cache
+c:\Users\primecontrol.otavio\documents\visual studio 2017\Projects\PDV\PDV.Dto\obj\Debug\netstandard1.6\PDV.Dto.AssemblyInfo.cs

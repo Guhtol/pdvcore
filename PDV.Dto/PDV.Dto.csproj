@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\Repositories\" />
-    <Folder Include="Interfaces\Services\" />
-    <Folder Include="Service\" />
+    <PackageReference Include="tnf.Dto" Version="1.0.17157.2" />
   </ItemGroup>
 
 </Project>
